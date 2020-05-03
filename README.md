@@ -13,5 +13,5 @@ $ export GITLAB_PRIVATE_TOKEN=xxxx
 $ make build
 
 # run script
-$ make up
+$ make run
 ```
